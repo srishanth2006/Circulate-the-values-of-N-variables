@@ -30,6 +30,5 @@ Run the program, input a list and rotation value, and observe the rotated list.
 <img width="337" alt="Screenshot 2023-11-28 113738" src="https://github.com/srishanth2006/Circulate-the-values-of-N-variables/assets/150319470/21c80583-a487-4e02-ba4a-0ac2e45be667">
 
 
-
 ## Result:
 The program for implementing for circulate the N variables is excuted successfully.
